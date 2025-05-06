@@ -40,8 +40,8 @@ function preload() {
   introSound = loadSound('intro-sound.mp3');
   newMusic = loadSound('new-music.mp3');  // New music file
   inactivitySound = loadSound('inactivity.mp3');
-  introStill = loadImage('intro-still.png');
-  interactionBg = loadImage('interaction-bg.png');
+  introStill = loadImage('cursor.png');
+  interactionBg = loadImage('cursor.png');
   startButtonImg = loadImage('start-button.png');
   closingImg = loadImage('closing.png');
 
